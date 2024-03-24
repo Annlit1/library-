@@ -64,7 +64,7 @@ nav {
 
 .hero {
   height: 600px;
-  background-image: url("./img/welcome-background.png");
+  background-image: url("welcome-background.png");
   display: flex;
   align-items: center;
 }
